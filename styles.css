@@ -1,0 +1,39 @@
+body{
+    background: gray;
+    margin: 0;
+}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.post{
+    background: white;
+    padding: 10px
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
+
+.landscape-image {
+    width: 100%;
+}
+
+.icons{
+    display: flex;
+}
+.share{
+    margin-left: 450px;
+}
+.dots{
+    margin-left: 350px;
+}
+.header{
+    display: flex;
+}
+h5{
+    text-align-last: justify;
+}
